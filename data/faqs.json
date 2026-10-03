@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the full name of DIU?",
+    "answer": "DIU stands for Daffodil International University.",
+    "category": "General",
+    "source": "https://daffodilvarsity.edu.bd/"
+  },
+  {
+    "question": "Where is Daffodil International University located?",
+    "answer": "Daffodil International University is located at Daffodil Smart City (DSC), Birulia, Savar, Dhaka-1216, Bangladesh.",
+    "category": "General",
+    "source": "https://daffodilvarsity.edu.bd/location"
+  },
+  {
+    "question": "How can I contact DIU admission office?",
+    "answer": "The DIU website currently lists the admission helpline as 09617901212 and admission@daffodilvarsity.edu.bd for admission-related queries.",
+    "category": "Admission",
+    "source": "https://daffodilvarsity.edu.bd/location"
+  },
+  {
+    "question": "What is the DIU admission email address?",
+    "answer": "The admission email listed by DIU is admission@daffodilvarsity.edu.bd.",
+    "category": "Admission",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "How can I apply for admission to DIU?",
+    "answer": "You can start the admission process through DIU's online admission portal. The admission flow includes checking eligibility, applying online, completing required admission steps, and then course registration after admission.",
+    "category": "Admission",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "Where can I apply online for DIU admission?",
+    "answer": "DIU's admission information directs applicants to the online admission portal at admission.daffodilvarsity.edu.bd.",
+    "category": "Admission",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "What documents are required for undergraduate admission?",
+    "answer": "DIU's published admission document checklist includes academic certificates/marksheets, photographs, and identification documents. Applicants should check the latest official checklist because requirements can vary by program.",
+    "category": "Admission",
+    "source": "https://daffodilvarsity.edu.bd/public//photos/pdf/Necessary_%20Documents_%20during_Admission.pdf"
+  },
+  {
+    "question": "What documents are required for master's admission?",
+    "answer": "DIU's published checklist asks master's applicants to bring relevant SSC, HSC and graduation certificates/marksheets or transcripts, photographs, and identification documents. Please verify the latest checklist before admission.",
+    "category": "Admission",
+    "source": "https://daffodilvarsity.edu.bd/public//photos/pdf/Necessary_%20Documents_%20during_Admission.pdf"
+  },
+  {
+    "question": "Does DIU have undergraduate programs?",
+    "answer": "Yes. DIU publishes undergraduate admission information and lists undergraduate programs across its faculties.",
+    "category": "Programs",
+    "source": "https://daffodilvarsity.edu.bd/admission/undergraduate-information"
+  },
+  {
+    "question": "Does DIU offer master's programs?",
+    "answer": "Yes. DIU publishes graduate and master's admission information and offers master's-level programs.",
+    "category": "Programs",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "How many programs does DIU offer?",
+    "answer": "DIU's current website states that it offers 51 undergraduate and graduate programs under six faculties. Program lists can change, so applicants should check the official admission page for the latest list.",
+    "category": "Programs",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "Which faculties are available at DIU?",
+    "answer": "DIU's current website groups its programs under six faculties. The exact faculty and department structure should be checked on the current official website because academic structures can change.",
+    "category": "Programs",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "Does DIU offer CSE?",
+    "answer": "Yes. Computer Science and Engineering is among the computing-related programs offered by DIU. Check the official program page for current curriculum and admission information.",
+    "category": "Programs",
+    "source": "https://daffodilvarsity.edu.bd/"
+  },
+  {
+    "question": "How can I find tuition fees for a program?",
+    "answer": "DIU publishes program and tuition-fee information online. Because fees can vary by program and may change, check the official tuition-fee page for the current amount.",
+    "category": "Fees",
+    "source": "https://www.daffodilvarsity.edu.bd/tuition-fees"
+  },
+  {
+    "question": "Does DIU offer scholarships or waivers?",
+    "answer": "Yes. DIU publishes scholarship and waiver information, including merit and other eligibility-based opportunities. Check the current official scholarship or tuition-fee calculator information for applicable conditions.",
+    "category": "Scholarship",
+    "source": "https://www.daffodilvarsity.edu.bd/tuition-fee-calculator"
+  },
+  {
+    "question": "How can I check scholarship or waiver information?",
+    "answer": "Scholarship and waiver information is published through DIU's official channels. Students should check the current scholarship/waiver section and relevant university notices for eligibility and application details.",
+    "category": "Scholarship",
+    "source": "https://www.daffodilvarsity.edu.bd/tuition-fee-calculator"
+  },
+  {
+    "question": "Does DIU provide transport facilities?",
+    "answer": "Yes. DIU's current admission page lists transport service and states that 25 AC buses cover Dhaka and nearby districts. Routes and schedules should be checked from the latest official transport information.",
+    "category": "Campus Services",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "Does DIU have hostel facilities?",
+    "answer": "Yes. DIU's current admission information lists hostel facilities. Availability, rules, and current accommodation details should be confirmed with the university.",
+    "category": "Campus Services",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "Where is the DIU campus?",
+    "answer": "The main DIU campus is at Daffodil Smart City (DSC), Birulia, Savar, Dhaka-1216.",
+    "category": "Campus",
+    "source": "https://daffodilvarsity.edu.bd/location"
+  },
+  {
+    "question": "What is the DIU admission helpline?",
+    "answer": "The DIU website currently lists 09617901212 as the admission help line.",
+    "category": "Admission",
+    "source": "https://daffodilvarsity.edu.bd/location"
+  },
+  {
+    "question": "Can I pay DIU academic or hall fees online?",
+    "answer": "DIU publishes payment guidelines that include digital payment options through the 1Card App and other listed payment methods. Check the latest official payment guideline before making a payment.",
+    "category": "Payment",
+    "source": "https://daffodilvarsity.edu.bd/noticeFile/payment-guidelines-7bb689937e.pdf"
+  },
+  {
+    "question": "What is the 1Card payment system?",
+    "answer": "DIU's payment guideline describes the 1Card App as an app-based payment system for academic and hall fees, with several supported payment options.",
+    "category": "Payment",
+    "source": "https://daffodilvarsity.edu.bd/noticeFile/payment-guidelines-7bb689937e.pdf"
+  },
+  {
+    "question": "How do I pay tuition fees through 1Card?",
+    "answer": "DIU's published payment guideline instructs students to download the 1Card App, register with an email address, and log in with their 1Card credentials before using the available payment options.",
+    "category": "Payment",
+    "source": "https://daffodilvarsity.edu.bd/noticeFile/payment-guidelines-7bb689937e.pdf"
+  },
+  {
+    "question": "When are payment dates announced?",
+    "answer": "DIU's student handbook says payment dates are notified through the online notice board and student email. Always check the latest university notice for your semester.",
+    "category": "Payment",
+    "source": "https://webbackend.daffodilvarsity.edu.bd/brochure/student-handbook2024/PDF.pdf"
+  },
+  {
+    "question": "How can I know how much I have to pay for a semester?",
+    "answer": "The student handbook explains that semester payment depends on registered credits and the applicable per-credit tuition fee, along with other applicable charges. Students can also check their ledger in the Students' Portal or contact the Accounts section.",
+    "category": "Payment",
+    "source": "https://webbackend.daffodilvarsity.edu.bd/brochure/student-handbook2024/PDF.pdf"
+  },
+  {
+    "question": "What should I do if I lose my student ID card?",
+    "answer": "The DIU student handbook says that a student who loses an ID card should first make a General Diary (GD) at a police station and submit a photocopy of the GD to the admission section for further instructions.",
+    "category": "Student Services",
+    "source": "https://webbackend.daffodilvarsity.edu.bd/brochure/student-handbook2024/PDF.pdf"
+  },
+  {
+    "question": "How can I change my department or program at DIU?",
+    "answer": "The DIU student handbook describes a process involving the department change form, required approvals, clearing dues, and submission to the Registrar's Office. Students should confirm the current procedure with their department and Registrar's Office.",
+    "category": "Academic",
+    "source": "https://webbackend.daffodilvarsity.edu.bd/brochure/student-handbook2024/PDF.pdf"
+  },
+  {
+    "question": "How can I reserve a classroom for an extra class?",
+    "answer": "The DIU student handbook says students should contact the department office and coordination officer for classroom booking for an extra class.",
+    "category": "Academic",
+    "source": "https://webbackend.daffodilvarsity.edu.bd/brochure/student-handbook2024/PDF.pdf"
+  },
+  {
+    "question": "Where can students get scholarship information?",
+    "answer": "The DIU student handbook directs students to the scholarship/waiver section under the Office of the Registrar for scholarship and waiver information.",
+    "category": "Scholarship",
+    "source": "https://webbackend.daffodilvarsity.edu.bd/brochure/student-handbook2024/PDF.pdf"
+  },
+  {
+    "question": "Does DIU have a library?",
+    "answer": "DIU provides library and e-library facilities. DIU's published materials describe an e-library with digital books and journals; students should check the current library portal for access details.",
+    "category": "Campus Services",
+    "source": "https://csr.daffodilvarsity.edu.bd/"
+  },
+  {
+    "question": "Does DIU have student clubs?",
+    "answer": "Yes. DIU highlights student clubs and extracurricular activities as part of campus life. The current number and active club list may change, so students should check the university's latest club information.",
+    "category": "Student Life",
+    "source": "https://daffodilvarsity.edu.bd/admission"
+  },
+  {
+    "question": "Does DIU provide career and internship opportunities?",
+    "answer": "DIU's published policy information describes career development and job/internship support through university services. Students should check the current Career Development Center announcements for opportunities.",
+    "category": "Career",
+    "source": "https://sustainability4d.daffodilvarsity.edu.bd/sdg-policies/10/admission-policy-guidelines-of-diu"
+  },
+  {
+    "question": "Can international students apply to DIU?",
+    "answer": "Yes. DIU publishes separate international admission information and provides contact channels for international applicants.",
+    "category": "International",
+    "source": "https://daffodilvarsity.edu.bd/international/admission-guidelines"
+  },
+  {
+    "question": "How can I contact DIU for general information?",
+    "answer": "DIU publishes general contact information on its official website. For admission-specific questions, use the admission helpline or admission email; for other matters, check the relevant office's contact directory.",
+    "category": "Contact",
+    "source": "https://daffodilvarsity.edu.bd/support-contact"
+  },
+  {
+    "question": "What is DIU's official website?",
+    "answer": "The official website of Daffodil International University is daffodilvarsity.edu.bd.",
+    "category": "General",
+    "source": "https://daffodilvarsity.edu.bd/"
+  }
+]
